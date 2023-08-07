@@ -1,0 +1,39 @@
+a:2:{s:4:"data";s:1348:"<li>
+    <a href="category/smartfony">Смартфоны</a>
+            <ul>
+            <li>
+    <a href="category/smartfony-21">Смартфоны</a>
+            <ul>
+            <li>
+    <a href="category/huawei">Huawei</a>
+    </li><li>
+    <a href="category/zte">ZTE</a>
+    </li><li>
+    <a href="category/samsung">Samsung</a>
+    </li><li>
+    <a href="category/honor">Honor</a>
+    </li><li>
+    <a href="category/xiaomi">Xiaomi</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li><li>
+    <a href="category/aksessuary-dlya-telefonov-i-portativnoy-tehniki">Аксессуары для телефонов и портативной техники</a>
+            <ul>
+            <li>
+    <a href="category/akb">АКБ</a>
+    </li><li>
+    <a href="category/naushniki">Наушники</a>
+    </li><li>
+    <a href="category/zaschitnye-plenki">Защитные пленки</a>
+    </li><li>
+    <a href="category/chehly-dlya-telefonov">Чехлы для телефонов</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/komp-yuternaya-periferiya">Компьютерная периферия</a>
+            <ul>
+            <li>
+    <a href="category/myshi">Мыши</a>
+    </li><li>
+    <a href="category/klaviatury">Клавиатуры</a>
+    </li>        </ul>
+    </li>";s:8:"end_time";i:1691394385;}
